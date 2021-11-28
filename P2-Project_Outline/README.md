@@ -18,7 +18,7 @@ individual city and it's surrounding areas.
 ### Features
 Include Features here -
 Create Event - Users with specific authorization will be able to create events: Name, Date, Description, location, Cost
-Edit Event - Users with specific authoriztion will be able to edit events
+Edit Event - Users with specific authorization will be able to edit events
 Search with Filter for Event - A search engine that allows for specific keywords or filters so a user can look for the vents that they are interested in.
 User login + Authorization - Users will be able to create accounts (event searchers or Event planners), and log in to their type of account. Each user will have a unique profile page with their saved events or events they have created.
 Favorite Events - Event searchers will be able to save and view events on their profile. (notifications will pop up for user when events are coming up - see things we have to learn).
